@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/kingdarboja/anaconda3/envs/uflasktutorial/bin/python",
+    "python.formatting.autopep8Path": "/home/kingdarboja/anaconda3/envs/uflasktutorial/bin/pep8",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "/home/kingdarboja/anaconda3/envs/uflasktutorial/bin/pylint",
+    "python.linting.pylintUseMinimalCheckers": false
+}
